@@ -1,5 +1,5 @@
 
-site_name: BOOKREC
+site_name: BOOKRECS
 nav:
   - Home: "index.md"
   - Relational Schema: "Relational_Schema.png"
